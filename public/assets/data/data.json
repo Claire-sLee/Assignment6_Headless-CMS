@@ -1,0 +1,141 @@
+{
+    "siteName": "Dashboard Kit",
+    "overview": [
+    {
+        "unresolved_text": "Unresolved",
+        "unresolved_value": 60
+    },
+    {
+        "overdue_text": "Overdue", 
+        "overdue_value": 16
+    },
+    {
+        "open_text": "Open",
+        "open_value": 43
+    },
+    {
+        "onHold_text": "On hold",
+        "onHold_value": 64
+    },
+    {
+        "resolved_text": "Resolved",
+        "resolved_value": 449
+    },
+    {
+        "received_text": "Received",
+        "received_value": 426
+    },
+    {
+        "averageFirstResponseTime_text": "Average first response time",
+        "averageFirstResponseTime_value": "33m"
+    },
+    {
+        "averageResponseTime_text": "Average response time",
+        "averageResponseTime_value": "3h 8m"
+    },
+    {
+        "resolutionWithinSla_text": "Resolution within SLA",
+        "resolutionWithinSla_value": "94%"
+    },
+    {
+        "featureRequest_text": "Waiting on Feature Request",
+        "featureRequest_value": 4238
+    },
+    {
+        "awaitingCusomerResponse_text": "Awaiting Customer Response",
+        "awaitingCusomerResponse_value": 1005
+    },
+    {
+        "awaitingDeveloperFix_text": "Awaiting Developer Fix",
+        "awaitingDeveloperFix_value": 914
+    },
+    {
+        "pending_text": "Pending",
+        "pending_value": 281
+    }
+    ],
+    "sidebar":{
+        "overview_text": "Overview",
+        "tickets_text": "Tickets",
+        "ideas_text": "Ideas",
+        "contacts_text": "Contacts",
+        "agents_text": "Agents",
+        "articles_text": "Articles",
+        "settings_text": "Settings",
+        "subscription_text": "Subscription"
+    },
+    "tickets": [
+          {
+            "avatar": "assets/img/avatar1.png",
+            "title": "Contact Email not Linked",
+            "updated": "Updated 1 day ago",
+            "customer": "Tom Cruise",
+            "date": "May 26, 2019",
+            "time": "6:30 PM",
+            "priority": "HIGH"
+          },
+          {
+            "avatar": "assets/img/avatar2.png",
+            "title": "Adding Images to Featured Posts",
+            "updated": "Updated 1 day ago",
+            "customer": "Matt Damon",
+            "date": "May 26, 2019",
+            "time": "8:00 AM",
+            "priority": "LOW"
+          },
+          {
+            "avatar": "assets/img/avatar3.png",
+            "title": "When will I be charged this month?",
+            "updated": "Updated 1 day ago",
+            "customer": "Robert Downey",
+            "date": "May 26, 2019",
+            "time": "7:30 PM",
+            "priority": "HIGH"
+          },
+          {
+            "avatar": "assets/img/avatar4.png",
+            "title": "Payment not going through",
+            "updated": "Updated 2 days ago",
+            "customer": "Christian Bale",
+            "date": "May 25, 2019",
+            "time": "5:00 PM",
+            "priority": "NORMAL"
+          },
+          {
+            "avatar": "assets/img/avatar5.png",
+            "title": "Unable to add replies",
+            "updated": "Updated 2 days ago",
+            "customer": "Henry Cavil",
+            "date": "May 25, 2019",
+            "time": "4:00 PM",
+            "priority": "HIGH"
+          },
+          {
+            "avatar": "assets/img/avatar6.png",
+            "title": "Downtime since last week",
+            "updated": "Updated 3 days ago",
+            "customer": "Chris Evans",
+            "date": "May 25, 2019",
+            "time": "2:00 PM",
+            "priority": "NORMAL"
+          },
+          {
+            "avatar": "assets/img/avatar7.png",
+            "title": "Referral Bonus",
+            "updated": "Updated 4 day ago",
+            "customer": "Sam Smith",
+            "date": "May 25, 2019",
+            "time": "11:30 AM",
+            "priority": "LOW"
+          },
+          {
+            "avatar": "assets/img/avatar8.png",
+            "title": "How do I change my password?",
+            "updated": "Updated 6 days ago",
+            "customer": "Steve Rogers",
+            "date": "May 24, 2019",
+            "time": "1:00 PM",
+            "priority": "NORMAL"
+          }
+        ]
+    }
